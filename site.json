@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": true,
+  "name": "Post Virus World : a response to COVID-19",
+  "shortDesc": "What comes next? Meditations on & calls to action for a post virus world.",
+  "url": "https://postvirusworld.com",
+  "authorEmail": "me@ericsimmerman.com",
+  "authorHandle": "@ericsimmerman",
+  "authorName": "Eric Simmerman",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 5,
+  "paymentPointer": false,
+  "faviconPath": "/images/favicon.png"
+}
