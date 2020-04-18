@@ -1,24 +1,7 @@
 ---
-layout: home
-title: Flatten the curve
-postsHeading: Latest posts
-archiveButtonText: See all posts
-socialImage: ''
+title: About a Post Virus World
+date: '2019-04-18'
+tags:
+  - about
 ---
-
-
 I first heard the phrase "Post Virus World" used to reference the inevitable changes we anticipate in the wake of COVID-19 [by MIT's Simon Johnson](https://mitsloan.mit.edu/faculty/directory/simon-johnson) when we discussed his work at [Covid Alliance](https://www.covidalliance.com/) mid-March. That conversation inspired the creation of this website. Please contribute to this dynamic collection of resources. 
-
-despite the recognition that we have not yet entered a post virus world - the current threat is all too current & real. 
-
-
-# podcasts
-- time to build
-- Kara Swisher interview of investor
-- Sam Harris with CEO of automattic
-
-# Doc for humanity
-- don't eat bats or pangolins
-
-# websites
-- didtheyhelp.com

@@ -6,7 +6,7 @@
   "authorEmail": "me@ericsimmerman.com",
   "authorHandle": "@ericsimmerman",
   "authorName": "Eric Simmerman",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "maxPostsPerPage": 5,
   "paymentPointer": false,
   "faviconPath": "/images/favicon.png"
