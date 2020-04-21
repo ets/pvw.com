@@ -1,24 +1,17 @@
 ---
 layout: home
-title: Flatten the curve
+title: Meditations on COVID-19 
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
 
 
-I first heard the phrase "Post Virus World" used to reference the inevitable changes we anticipate in the wake of COVID-19 [by MIT's Simon Johnson](https://mitsloan.mit.edu/faculty/directory/simon-johnson) when we discussed his work at [Covid Alliance](https://www.covidalliance.com/) mid-March. That conversation inspired the creation of this website. Please contribute to this dynamic collection of resources. 
+## Podcasts 
+[John Barry on Drive](https://peterattiamd.com/johnbarry/) - Peter Arria talks to John Barry about lessons we might learn from the 1918 Splanish flu pandemic
 
-despite the recognition that we have not yet entered a post virus world - the current threat is all too current & real. 
+[Corona Taboos on The Glenn Show](https://www.stitcher.com/podcast/bloggingheadstv/bhtv-the-glenn-show-audio/e/68739929) - Glenn Loury & Wilfred Reilly look at data that supports a contratian view of Corona infection rates
 
+[A Time to Build on EconTalk](https://www.econtalk.org/yuval-levin-on-a-time-to-build/) - Russ Roberts with Yuval Levin about the need to (re)build institutions around common purpose
 
-# podcasts
-- time to build
-- Kara Swisher interview of investor
-- Sam Harris with CEO of automattic
-
-# Doc for humanity
-- don't eat bats or pangolins
-
-# websites
-- didtheyhelp.com
+[The New Future of Work](https://samharris.org/podcasts/194-new-future-work/) - Sam Harris with Matt Mullenweg discuss the necessity of innovating in response to the Covid-19 pandemic
